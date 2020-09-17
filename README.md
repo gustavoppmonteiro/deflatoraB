@@ -11,4 +11,4 @@ deflatoraB	[ÚLTIMO_TRIMESTRE_DISPONÍVEL]	[ÚLTIMO_ANO_DISPONÍVEL]	[TRIMESTRE_
 O último trimestre disponível é o do 2T2020 e vc quer deflacionar para valores do 4T2018.
 O comando é:
 
-  deflatora 2 2020 4 2018
+  deflatoraB 2 2020 4 2018
