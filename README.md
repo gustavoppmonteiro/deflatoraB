@@ -1,7 +1,7 @@
-# deflatoraPnadTri
+# deflatoraB
 
 Programa para deflacionar a Pnad Contínua Trimestral.
-Ele permite mudança de base.
+Ele permite mudança de base. (Por isso o B no nome).
 
 O comando é assim:
 
